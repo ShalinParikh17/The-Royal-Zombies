@@ -1,6 +1,6 @@
 # The-Royal-Zombies
 
-##Checkpoint 5 - Natural Language Processing
+## Checkpoint 5 - Natural Language Processing
 
 In alignment with our theme to find out the factors affecting the sustainment of complaints against a given police officer, we have used LSTMs to perform multi class text classification on the complaint narratives, and see if they are indicative of the allegation categories and final findings.
 

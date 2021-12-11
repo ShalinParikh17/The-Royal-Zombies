@@ -1,6 +1,6 @@
 # The-Royal-Zombies
 
-##Checkpoint 2 - Data Exploration
+## Checkpoint 2 - Data Exploration
 
 This Checkpoint deals with creating visualizations using Tableau for the following three questions:
 

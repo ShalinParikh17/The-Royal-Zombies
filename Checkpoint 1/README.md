@@ -1,6 +1,6 @@
 # The-Royal-Zombies
 
-##Checkpoint 1 - SQL Analytics
+## Checkpoint 1 - SQL Analytics
 
 For this checkpoint, our team performed exploratory data analysis using PostgreSQL. We analyzed the officers with sustained complaints, as well as the allegation categories for which complaints were sustained.
 

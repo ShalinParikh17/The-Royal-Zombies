@@ -1,6 +1,6 @@
 # The-Royal-Zombies
 
-##Checkpoint 3 - Interactive Visualization
+## Checkpoint 3 - Interactive Visualization
 
 In alignment with our theme to find out the factors affecting the sustainment of
 complaints against a given police officer, we have plotted interactive graphs
