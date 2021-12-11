@@ -1,0 +1,14 @@
+{
+  "name": "@6791566e58d943af/cpdb_analysis",
+  "main": "0daa803e3f5ceaa2@1911.js",
+  "version": "1911.0.0",
+  "homepage": "https://observablehq.com/@6791566e58d943af/cpdb_analysis",
+  "author": {
+    "name": "Shalin Parikh",
+    "url": "https://observablehq.com/@6791566e58d943af"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
